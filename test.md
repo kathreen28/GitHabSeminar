@@ -34,3 +34,5 @@ git config --global user.email ваша почта@example.com
 * _**git log --graph** - показ дерева_
 
 * _**git log --oneline** - коротенький журнал_
+
+[Тут милый котик](/images/cat.jpeg)
