@@ -29,6 +29,8 @@ git config --global user.email ваша почта@example.com
 
 * _**git branch** - посмотреть список веток в репозитории_
 
+* _**git branch -d <название ветки>** – удалить ветку_
+
 * _**git log --graph** - показ дерева_
 
 * _**git log --oneline** - коротенький журнал_
