@@ -36,3 +36,5 @@ git config --global user.email ваша почта@example.com
 * _**git log --oneline** - коротенький журнал_
 
 [Тут милый котик](/images/cat.jpeg)
+
+- _**git clone** - клонирование внешнего репозитория на локальный ПК_
